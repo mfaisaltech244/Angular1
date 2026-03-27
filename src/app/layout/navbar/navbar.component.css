@@ -1,0 +1,21 @@
+.user-info {
+  display: flex;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.user-info span {
+  color: #333;
+}
+
+.navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.gap-3 {
+  gap: 1rem;
+}

@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
+import { AdminLayoutComponent } from './layout/admin-layout/admin-layout.component';
 import { RouterOutlet } from '@angular/router';
-
 @Component({
   selector: 'app-root',
   imports: [RouterOutlet],
@@ -8,5 +8,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Angular1';
+  
 }
+ 
